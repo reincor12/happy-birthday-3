@@ -1,0 +1,11 @@
+@media screen and (max-width: 426px) {
+
+    body {
+        background-color: lightgreen;
+        margin: 0;
+        padding: 0;
+    }
+
+    a{
+        text-decoration: none;
+    }

@@ -1,0 +1,16 @@
+@media screen and (max-width: 426px) {
+
+    body {
+        background: linear-gradient(to bottom, #FF7E5F, #FEB47B);
+        margin: 0;
+        color: #001F3F;
+        padding: 0;
+    }
+
+    p {
+        margin-left: 5px;
+        color: rgba(0, 0, 0, 0.8);
+        font-size: 20px;
+    }
+
+}

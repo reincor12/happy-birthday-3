@@ -1,0 +1,15 @@
+@media screen and (max-width: 426px) {
+
+    body {
+        background-color: cadetblue;
+        margin: 0;
+        padding: 0;
+        color: #FFFACD;
+    }
+
+    p{
+        margin-left: 5px;
+        font-size: 20px;
+    }
+
+}
